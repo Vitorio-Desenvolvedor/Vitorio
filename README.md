@@ -1,6 +1,6 @@
 # Olá, eu me chamo Vitório
 - 📚 Cursando Técnico em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Estudando Python
+- 👨‍💻 Estudando Python, JavaScript, TypeScript
 - 👨‍💻 Programador back-end
 
   
