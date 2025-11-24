@@ -3,9 +3,8 @@ Olá, eu sou Vitório Augusto!
 Cursando Técnico em Análise e Desenvolvimento de Sistemas
 <br>Desenvolvedor focado em Front-End e Back-End
 <br>Atualmente estudando SQL | JavaScript | HTML | CSS | React.js
-
 <br>
-Tecnologias que utilizo
+Tecnologias em uso:
 <div align="center" style="margin-top: 20px;"> <img align="center" alt="vitorio-js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin: 10px;"> <img align="center" alt="vitorio-react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin: 10px;"> <img align="center" alt="vitorio-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin: 10px;"> <img align="center" alt="vitorio-css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin: 10px;"> <img align="center" alt="vitorio-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="margin: 10px;"> </div>
 <br>
 Estatísticas do GitHub
