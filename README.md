@@ -1,8 +1,8 @@
--Olá, eu sou Vitório Augusto!
+Olá, eu sou Vitório Augusto!
 
--Cursando Técnico em Análise e Desenvolvimento de Sistemas
--Desenvolvedor focado em Front-End e Back-End
--Atualmente estudando SQL | JavaScript | HTML | CSS | React.js
+Cursando Técnico em Análise e Desenvolvimento de Sistemas
+<br>Desenvolvedor focado em Front-End e Back-End
+<br>Atualmente estudando SQL | JavaScript | HTML | CSS | React.js
 
 <br>
 Tecnologias que utilizo
